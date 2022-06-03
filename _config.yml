@@ -36,7 +36,7 @@ plugins:
 
 pagination: 5
 
-include: ["_pages"]
+include: ["_pages", "_images"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

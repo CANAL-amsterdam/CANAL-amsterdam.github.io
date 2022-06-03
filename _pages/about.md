@@ -4,8 +4,11 @@ permalink: /about/
 ---
 
 ## The Lab
-- Dr. Melvin Wevers (FGW, History) - Director
-- Dr. Nanne van Noord (FNWI, Informatics) - Director
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/melvin.jpg){: width="100" }
+   Dr. Melvin Wevers (FGW, History) - Director
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/nanne.jpg){: width="100" }
+   Dr. Nanne van Noord (FNWI, Informatics) - Director
 
 
 
