@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /research_themes/
+title: Research Themes
 ---
 
 ## Global Cultural Analytics
