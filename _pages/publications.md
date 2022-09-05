@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /publications/
+title: Latest Publications
 ---
-
-## Latest Publications
 
 T.b.a.
