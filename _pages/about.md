@@ -6,7 +6,7 @@ tags: canal website
 ---
 
 ## The Lab
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/melvin.jpg){: width="100" }
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/melvin.jpg){: width="100" }  
    Dr. Melvin Wevers (FGW, History)  
    Director
 
