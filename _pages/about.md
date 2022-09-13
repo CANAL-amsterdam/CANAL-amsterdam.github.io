@@ -25,7 +25,7 @@ tags: canal website
    Sadaf Gulshad (FNWI, Informatics) - Postdoc
    
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/teng.png){: width="100" }
-   Teng Long (FNWI, Informatics) - Postdoc
+   Dr. Teng Long (FNWI, Informatics) - Postdoc
    
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/person.png){: width="100" }
    Ruben Ros (Leiden, History) - Ph.D. Student
@@ -34,6 +34,11 @@ tags: canal website
 
 
 ## Steering Group
-- Prof. Dr. Julia Noordegraaf
-- Prof. Dr. Tobias Blanke
-- Prof  Dr. Marcel Worring
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/person.png){: width="100" }
+    Prof. Dr. Julia Noordegraaf
+    
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/person.png){: width="100" }
+    Prof. Dr. Tobias Blanke
+    
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/marcel.jpeg){: width="100" }
+    Prof  Dr. Marcel Worring
