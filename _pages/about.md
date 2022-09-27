@@ -26,13 +26,10 @@ tags: canal website
    Wangyuan Ding (FNWI, Informatics)  
    Ph.D. Student
    
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sadaf.png){: width="100" }  
-   Sadaf Gulshad (FNWI, Informatics)  
-   Postdoc
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/person.png){: width="100" }  
+   Carlo Bretti (FNWI, Informatics)  
+   Ph.D. Student
    
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/teng.png){: width="100" }  
-   Dr. Teng Long (FNWI, Informatics)  
-   Postdoc
    
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/person.png){: width="100" }  
    Ruben Ros (Leiden, History)  
