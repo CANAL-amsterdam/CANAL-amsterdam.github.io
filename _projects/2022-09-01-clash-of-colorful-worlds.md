@@ -1,6 +1,6 @@
 ---
-title: "Clash of Colorful Worlds: Distant Viewing Color in Visual Representations of the Orient and Occident, 1890-1920"
-excerpt: "Analysis of color in autochrome / photochromes. "
+title: "Clash of Colorful Worlds"
+excerpt: "Distant Viewing Color in Visual Representations of the Orient and Occident, 1890-1920"
 header:
     overlay_image: assets/images/projects/clash.jpg
     overlay_filter: 0.5 
