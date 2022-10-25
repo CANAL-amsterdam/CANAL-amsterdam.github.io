@@ -13,6 +13,6 @@ The specific aim of the enrichments provided by scene detection was to benefit u
 
 ## Publications
 - Wevers, Melvin. 2021. “Scene Detection in De Boer Historical Photo Collection.” In Proceedings of the 13th International Conference on Agents and Artificial Intelligence. Vienna.
-- Wevers, Melvin, Nico Vriend, and Alexander de Bruin. 2022. “What to Do with 2.000.000 Historical Press Photos? The Challenges and Opportunities of Applying a Scene Detection Algorithm to a Digitised Press Photo Collection.” TMG Journal for Media History 25 (1): 1–24. https://doi.org/10.18146/tmg.815.
-- Wevers. (2022). Fotopersbureau De Boer Training Set on Scene Detection (0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7137452
-- Vriend, Nico, and Melvin Wevers. n.d. “Historische Foto’s Beter Doorzoekbaar Met AI - Noord-Hollands Archief.” NHALab. Accessed October 19, 2022. https://noord-hollandsarchief.nl/ontdekken/nhalab/fotografisch-geheugen/onderzoek-en-innovatie/1156-historische-fotos-beter-doorzoekbaar-met-ai.
+- Wevers, Melvin, Nico Vriend, and Alexander de Bruin. 2022. “What to Do with 2.000.000 Historical Press Photos? The Challenges and Opportunities of Applying a Scene Detection Algorithm to a Digitised Press Photo Collection.” [TMG Journal for Media History 25 (1): 1–24.](https://doi.org/10.18146/tmg.815.)
+- Wevers. (2022). Fotopersbureau De Boer Training Set on Scene Detection (0.2) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7137452)
+- Vriend, Nico, and Melvin Wevers. n.d. “Historische Foto’s Beter Doorzoekbaar Met AI - Noord-Hollands Archief.” [NHALab](https://noord-hollandsarchief.nl/ontdekken/nhalab/fotografisch-geheugen/onderzoek-en-innovatie/1156-historische-fotos-beter-doorzoekbaar-met-ai)
