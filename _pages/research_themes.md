@@ -7,15 +7,19 @@ tags: canal website
 
 Cultural factors impact how we interpret data. These factors can vary over time and place. Existing methods for cultural analytics, including AI, generally overlook these factors. 
 
-The mission of CANAL AI Lab is to co-develop and co-research culturally-aware AI methods from a perspective that is both critical and ethical.
+The mission of CANAL is to co-develop and co-research culturally-aware AI methods from a perspective that is both critical and ethical.
 
 Our __core analytical challenges__ include:
 
-- investigating multimodal cultural records that require context analysis to assess their meaning;
-- understanding dynamic developments over time and across space;
-- developing a more inclusive and global approach to data.
+- investigating multimodal cultural records that require context analysis to assess their meaning
+- understanding dynamic developments over time and across space
+- developing a more inclusive and global approach to data
 
-Our work focuses on three __core research themes__, outlined in the sections below.
+Our __core research themes__ include:
+
+- [global cultural analytics](#global-cultural-analytics)
+- [modeling complex, dynamic systems](#modeling-complex-dynamic-systems)
+- [computational visual studies](#computational-visual-studies)
 
 ## Global Cultural Analytics
 
