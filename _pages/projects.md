@@ -1,8 +1,7 @@
 ---
 layout: collection
+title: Projects
 permalink: /projects/
 collection: projects
-title: Projects
 entries_layout: grid
-classes: wide
 ---
