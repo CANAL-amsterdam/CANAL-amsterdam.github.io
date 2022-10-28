@@ -1,6 +1,6 @@
 ---
 title: "Visual Style in Art"
-excerpt: ""
+excerpt: "Analyzing visual style using AI"
 header:
     overlay_image: assets/images/projects/visualstyle.png
     overlay_filter: 0.5 

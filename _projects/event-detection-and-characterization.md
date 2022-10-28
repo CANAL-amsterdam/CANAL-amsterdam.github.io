@@ -1,6 +1,6 @@
 ---
 title: "Event Detection and Characterization"
-excerpt: ""
+excerpt: "Studying events in complex sociocultural data"
 header:
     overlay_image: assets/images/projects/events.png
     overlay_filter: 0.5 

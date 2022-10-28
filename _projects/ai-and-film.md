@@ -1,6 +1,6 @@
 ---
 title: "AI and Film"
-excerpt: ""
+excerpt: "Incorporating film makers' and scholars' language and concepts in AI"
 header:
     overlay_image: assets/images/projects/visual-culture-studies.png
     overlay_filter: 0.5 

@@ -1,6 +1,6 @@
 ---
 title: "Iconic Photographs and Image Polysemy"
-excerpt: ""
+excerpt: "Interpreting images as multimodal objects"
 header:
     overlay_image: assets/images/projects/iconic.jpg
     overlay_filter: 0.5 

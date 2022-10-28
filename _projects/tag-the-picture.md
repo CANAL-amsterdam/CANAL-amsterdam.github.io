@@ -1,6 +1,6 @@
 ---
-title: "Tag the Picture (Tropenmuseum)"
-excerpt: ""
+title: "Tag the Picture"
+excerpt: "An annotation platform for the Tropenmuseum"
 header:
     overlay_image: assets/images/projects/tag-the-picture.png
     overlay_filter: 0.5 

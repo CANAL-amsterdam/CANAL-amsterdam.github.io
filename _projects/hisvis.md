@@ -1,6 +1,6 @@
 ---
 title: "HisVis: Scene Detection"
-excerpt: ""
+excerpt: "Applying scene detection to a collection of historical press photographs from the Noord-Hollands Archief"
 header:
     overlay_image: assets/images/projects/hisvis.jpg
     overlay_filter: 0.5 
