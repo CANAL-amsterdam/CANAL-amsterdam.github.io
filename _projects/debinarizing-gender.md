@@ -2,9 +2,9 @@
 title: "Debinarizing Gender"
 excerpt: "Developing new methods for gender classification"
 header:
-    overlay_image: assets/images/projects/dynamic-social-systems.png
+    overlay_image: assets/images/projects/background.png
     overlay_filter: 0.5 
-    teaser: assets/images/projects/dynamic-social-systems.png
+    teaser: assets/images/projects/background.png
 ---
 
 In cultural theory, scholars have conceptualized gender identities and the ways in which they find (visual) expression in heritage collections, as non-binary socio-cultural constructs (Matsuno & Budge, 2017). In contrast, most applications of machine learning in digital humanities classify gender into two mutually exclusive classes. Common performance metrics further exacerbate binarity by penalizing models for uncertainty and non-response. This paper uses CLIP (Radford et. al, 2021), a multimodal model, in combination with C@1 (Peñas & Rodrigo, 2011), a F1 metric that allows (and rewards) non-response, to propose a new method for gender classification on (historical) images.

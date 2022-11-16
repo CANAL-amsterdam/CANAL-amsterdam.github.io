@@ -4,7 +4,7 @@ excerpt: "Interpreting images as multimodal objects"
 header:
     overlay_image: assets/images/projects/iconic.jpg
     overlay_filter: 0.5 
-    teaser: assets/images/projects/iconic.jpg
+    teaser: assets/images/projects/teasers/iconic_169.png
 ---
 
 __Nanne van Noord__ & __Wangyuan Ding__

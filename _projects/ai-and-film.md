@@ -2,9 +2,9 @@
 title: "AI and Film"
 excerpt: "Incorporating film makers' and scholars' language and concepts in AI"
 header:
-    overlay_image: assets/images/projects/visual-culture-studies.png
+    overlay_image: assets/images/projects/background.png
     overlay_filter: 0.5 
-    teaser: assets/images/projects/visual-culture-studies.png
+    teaser: assets/images/projects/background.png
 ---
 
 __Nanne van Noord__ & __Carlo Bretti__

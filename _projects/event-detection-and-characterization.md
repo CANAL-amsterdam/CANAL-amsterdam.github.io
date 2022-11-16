@@ -4,7 +4,7 @@ excerpt: "Studying events in complex sociocultural data"
 header:
     overlay_image: assets/images/projects/events.png
     overlay_filter: 0.5 
-    teaser: assets/images/projects/events.png
+    teaser: assets/images/projects/teasers/events_169.png
 ---
 
 __Melvin Wevers__, __Jan Kostkan__, & __Kristoffer Nielbo__

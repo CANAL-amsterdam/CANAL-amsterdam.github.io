@@ -4,7 +4,7 @@ excerpt: "Distant Viewing Color in Visual Representations of the Orient and Occi
 header:
     overlay_image: assets/images/projects/clash.jpg
     overlay_filter: 0.5 
-    teaser: assets/images/projects/clash.jpg
+    teaser: assets/images/projects/teasers/clash_169.png
 taxonomy: Visual
 ---
 

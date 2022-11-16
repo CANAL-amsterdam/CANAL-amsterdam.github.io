@@ -4,7 +4,7 @@ excerpt: "Applying scene detection to a collection of historical press photograp
 header:
     overlay_image: assets/images/projects/hisvis.jpg
     overlay_filter: 0.5 
-    teaser: assets/images/projects/hisvis.jpg
+    teaser: assets/images/projects/teasers/hisvis_169.png
 ---
 
 The HisVis project was a collaboration with the _Noord-Hollands Archief_. In this project, we examined to what extent Computer Vision, and more specifically, Scene Detection could be applied to a collection of historical press photographs. The key aspect of scene recognition is to identify the place in which the objects seat. We trained a computer vision model to automatically segment and correctly orient images from photo negatives, to automatically recognize specific scenes on historical press photographs, like a ‘protest’, ‘marriage’, ‘shopping street’ or ‘baseball game’, and to detect whether a photograph was taken indoors or outdoors. 

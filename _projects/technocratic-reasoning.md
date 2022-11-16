@@ -4,7 +4,7 @@ excerpt: ""
 header:
     overlay_image: assets/images/projects/technocratic-reasoning.png
     overlay_filter: 0.5 
-    teaser: assets/images/projects/technocratic-reasoning.png
+    teaser: assets/images/projects/teasers/technocratic-reasoning_169.png
 ---
 
 __Ruben Ros__
