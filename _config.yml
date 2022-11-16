@@ -54,6 +54,12 @@ defaults:
       layout: single
       author_profile: false
       share: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
