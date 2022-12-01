@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Panel at Cultures in AI/AI in Culture Workshop"
+title: "Tag the Picture Launched"
 date: 2022-11-28 09:00:00 +0200
 categories: news
 ---
