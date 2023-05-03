@@ -10,7 +10,7 @@ CANAL and the ASCA Research Group [AI and Cultural Production](https://asca.uva.
 - Session 1: ‘Iconic images’ (February 21), Nanne Van Noord and Claudio Celis Bueno. [→ Register](https://ias.uva.nl/content/events/2023/02/interdisciplinary-perspectives-on-ai--culture-art-and-science-in-conversation.html).
 - Session 2: ‘Prediction and causality’ (March 28), Melvin Wevers and Sara Magliacane. [→ Register](https://ias.uva.nl/content/events/2023/03/prediction-and-causality.html).
 - Session 3: ‘Bias and metrics’ (April 18), Dieuwertje Luitse and Fernando P. Santos. [→ Register](https://www.eventbrite.com/e/interdisciplinary-perspectives-on-ai-culture-3-bias-and-metrics-tickets-602550263057l).
-- Session 4: ‘Creativity and AI in Cinema’ (May 23), Pei-Sze Chow and Carlo Bretti.
+- Session 4: ‘Creativity and AI in Cinema’ (May 23), Pei-Sze Chow and Carlo Bretti. [→ Register](https://www.eventbrite.com/e/interdisciplinary-perspectives-on-ai-culture-4-creativityai-in-cinema-tickets-629245780067?aff=erelexpmlt)
 
 All four sessions will take place at 15:00-17:00 at the [Institute for Advanced Study](https://ias.uva.nl/) (Sweelinck Room, Oude Turfmarkt 147, 1012 GC Amsterdam).
 
